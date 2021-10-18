@@ -1,1 +1,1 @@
-Ainda pretendo alterar o código para que emplemento todos os passos do fluxograma como nele descrito.
+Ainda pretendo alterar o código para implementar todos os passos do fluxograma como nele descrito.
